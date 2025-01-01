@@ -7,7 +7,7 @@ UID:dog-poop-day
 DTSTAMP:20241124T000000Z
 DTSTART;VALUE=DATE:20241124
 RRULE:FREQ=YEARLY
-SUMMARY:День пʼяти
+SUMMARY:День пʼяти 💩
 DESCRIPTION:День коли Тоня зібрала 5 чужих каках
 END:VEVENT
 
