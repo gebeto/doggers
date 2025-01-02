@@ -4,8 +4,8 @@ PRODID:-//Собачники//Собачники//UA
 
 BEGIN:VEVENT
 UID:dog-poop-day
-DTSTAMP:20241124T000000Z
-DTSTART;VALUE=DATE:20241124
+DTSTAMP:20240828T000000Z
+DTSTART;VALUE=DATE:20240828
 RRULE:FREQ=YEARLY
 SUMMARY:День пʼяти 🐕💩
 DESCRIPTION:День коли Тоня зібрала 5 чужих каках
